@@ -1,5 +1,1 @@
-- 👋 Olá, eu sou @eduardaricarte
-- 🌱 Estou aprendendo programação full stack
-- 😄 Pronomes: ela/dela
-
-
+Oie! Me chamo Maria Eduarda e estou fazendo um curso de programação full stack
